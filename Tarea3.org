@@ -1,0 +1,32 @@
+* Desarrollo de Interfaces - Creación de un prototipo
+El objetivo de esta práctica es crear un *prototipo digital de una aplicación* siguiendo las recomendaciones expuestas en el tema 3 en Aules del curso 
+
+
+
+** Temática de la TAREA
+   El prototipo a desarrollar será para el diseño de un *gestor de presupuesto personal*. El usuario podrá establecer su presupuesto para el més de octubre e ir anotando sus gastos. La aplicación le permitirá:
+   
+** Software de creación de prototipos
+ Para la creación del prototipo se utilizará la herramienta [[https://moqups.com][moqups]]. Entrar en la web y crear una cuenta gratuita "sign up for free"
+
+
+   
+** TAREA: Vistas a diseñar con moqups
+ - Vista 1 *principal* - Mostrará el presupuesto mensual y presupuesto restante (en texto y mediante un gráfico), un botón para modificar el presupuesto 
+ - Vista 2 de *histórico de gastos* - Mostrará un listado con los últimos gastos con sus botones de edición (modificación y borrado), botones de paginación (para cargar gastos más antiguos) y botones de filtrado para buscar gastos por fecha, categoría, descripción o cantidad
+
+
+** Diseño adaptativo con moqups
+Se deben crear *2 versiones de cada una de las dos vistas* del prototipo. Cada versión debe estar optimizada para:
+- Móvil
+- Pantallas grandes
+En *primer lugar* se deberá crear la *versión optimizada para móvil* siguiendo el patrón de diseño /[[https://developers.google.com/search/mobile-sites/mobile-first-indexing][mobile first]]/.
+
+
+** Formato de la ENTREGA
+ - Todos los archivos de la práctica se guardarán en el repositorio Practica 3 de GitHub.
+ - El prototipo se realizará en la herramienta *moqups*. Se debe modificar el archivo ~README~ para incluir nombre y apellidos y un *enlace a la vista previa del prototipo*.
+ - Se debe incluir también en el repositorio el prototipo en formato *PDF* y *PNG* exportado desde *moqups*.
+ - Una vez *finalizada* la tarea se debe crear un ~Issue~ en el repositorio haciendo referencia al profesor incluyendo el texto ~@yosies~ dentro del ~Issue~.
+
+
